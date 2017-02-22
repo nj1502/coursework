@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coursework/AppDelegate.swift"
+            timestampString = "509362619.736207"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coursework/SignInVC.swift"
+            timestampString = "509475047.829298"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__deallocating_deinit"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472012.648199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472012.655824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472012.657789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472012.659316"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472012.660772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coursework/SignInVC.swift"
+            timestampString = "509472025.188176"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__deallocating_deinit"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.193686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.198404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.204832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.207164"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.209254"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coursework/SignInVC.swift"
+            timestampString = "509472025.958573"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__deallocating_deinit"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.96353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.968338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; coursework.SignInVC"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.971675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.973689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coursework.SignInVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;coursework.SignInVC&gt;"
+                  moduleName = "coursework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NathanJayawardene/Desktop/coursework/coursework/SignInVC.swift"
+                  timestampString = "509472025.975035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
